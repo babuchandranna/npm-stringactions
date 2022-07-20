@@ -1,0 +1,2 @@
+# npm-stringactions
+npm-stringactions
